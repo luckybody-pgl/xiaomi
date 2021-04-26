@@ -1,0 +1,51 @@
+{
+  "id": "2377690",
+  "name": "66",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1374626",
+      "name": "话费充值",
+      "font_class": "huafeichongzhi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "3163009",
+      "name": "时钟",
+      "font_class": "shizhong",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "3512587",
+      "name": "以旧换新",
+      "font_class": "old-new",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6541747",
+      "name": "楼",
+      "font_class": "lou",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "9898924",
+      "name": "米粉卡",
+      "font_class": "mifenka",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "16418753",
+      "name": "小米商城F码",
+      "font_class": "xiaomishangchengFma",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
